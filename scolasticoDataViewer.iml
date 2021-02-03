@@ -20,5 +20,6 @@
     <orderEntry type="library" name="Maven: asm:asm:2.2.3" level="project" />
     <orderEntry type="library" name="Maven: com.jgoodies:forms:1.0.7" level="project" />
     <orderEntry type="library" name="Maven: jdom:jdom:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fifesoft:rsyntaxtextarea:3.1.2" level="project" />
   </component>
 </module>
